@@ -5,6 +5,27 @@
 ## Overview
 This repository contains materials for the **Hardware Accelerators** course, including assignments, projects, and resources related to hardware acceleration techniques.
 
+A hands-on open course materials for learning **hardware acceleration for machine learning**. This course aimed to teach how to design, analyze, and evaluate accelerators using:
+
+- CNN accelerators
+- Systolic arrays
+- Weight-stationary, output-stationary, and input-stationary dataflows
+- CUDA optimization
+- Quantization and pruning
+- FPGA/Vivado implementation
+- Timeloop + Accelergy
+- MAESTRO
+- Energy, latency, and area analysis
+
+## Who is this for?
+
+This repository is useful for:
+
+- Computer architecture students
+- FPGA and Verilog learners
+- ML systems students
+- Researchers starting DNN accelerator work
+- Anyone studying Eyeriss, ShiDianNao, systolic arrays, or CNN acceleration
 
 ## Table of Contents
 

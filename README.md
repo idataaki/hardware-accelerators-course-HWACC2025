@@ -92,6 +92,11 @@ We use the following book as a reference:
 ## Contribution
 For questions or contributions, please open an issue or submit a pull request. You also can always reach to us directly or via Email.
 
+## License
+
+This repository is licensed under the Creative Commons Attribution 4.0 International License.
+You are free to use, share, modify, and redistribute as long as proper attribution is given.
+See [LICENSE](LICENSE) for details.
 
 **Shahid Beheshti University - Faculty of Computer Engineering**
 **Academic Year: 2024-2025 | Spring Semester**

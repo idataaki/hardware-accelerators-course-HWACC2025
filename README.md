@@ -1,11 +1,11 @@
 # HWACC2025
 ![banner](pics/banner.jpg)
-# Hardware Accelerators Course - Spring 2025
+# Hardware Accelerators Materials - Spring 2025
 
 ## Overview
 This repository contains materials for the **Hardware Accelerators** course, including assignments, projects, and resources related to hardware acceleration techniques.
 
-A hands-on open course materials for learning **hardware acceleration for machine learning**. This course aimed to teach how to design, analyze, and evaluate accelerators using:
+A collection of hands-on open course materials for learning **hardware acceleration for machine learning**. This course aimed to teach how to design, analyze, and evaluate accelerators using:
 
 - CNN accelerators
 - Systolic arrays

@@ -45,6 +45,7 @@ This repository is useful for:
 | Item | Description |
 |------|-------------|
 | [Final Project](Project/README.md) | Course final project guidelines |
+| [Project Solution](ProjectSolution/FashionLeNet/README.md) | The final project solution implementation|
 
 ### Papers & Presentations
 

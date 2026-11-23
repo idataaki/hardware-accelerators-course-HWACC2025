@@ -1,0 +1,3 @@
+[submodule "ProjectSolution/FashionLeNet"]
+	path = ProjectSolution/FashionLeNet
+	url = https://github.com/matinfirooz/FashionLeNet.git
